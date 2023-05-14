@@ -112,7 +112,7 @@ async def next_page(bot, query):
     btn.insert(1, 
         [
             InlineKeyboardButton('ɢʀᴏᴜᴘ', url='https://t.me/+PN59dOdJNNAxYzQ1'),
-            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ', url='https://t.me/Sharathitsisme')
+            InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ', url='https://t.me/MrFazni')
         ]
     )
    
