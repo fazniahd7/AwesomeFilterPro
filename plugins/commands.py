@@ -48,9 +48,9 @@ async def start(client, message):
             InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+jifqatZld805MTU1'),
             ],[
             InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilRockerz_FZN'),
-            InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://t.me/MrFazni'),
+            InlineKeyboardButton('👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ ✨', url='https://t.me/MrFazni'),
             ],[
-            InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
+            InlineKeyboardButton('👋 ᴀʙᴏᴜᴛ ᴍᴇ 👋', callback_data='about'),
             ],[
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
         ]]
@@ -98,9 +98,9 @@ async def start(client, message):
             InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+jifqatZld805MTU1'),
             ],[
             InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilRockerz_FZN'),
-            InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://t.me/MrFazni'),
+            InlineKeyboardButton('👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ ✨', url='https://t.me/MrFazni'),
             ],[
-            InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
+            InlineKeyboardButton('👋 ᴀʙᴏᴜᴛ ᴍᴇ 👋', callback_data='about'),
             ],[
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
         ]]
