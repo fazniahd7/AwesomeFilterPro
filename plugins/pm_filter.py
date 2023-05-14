@@ -444,9 +444,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('💥 ᴍᴏᴠɪᴇs ♥️', url='https://t.me/+jifqatZld805MTU1')
             ],[
             InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/TamilRockerz_FZNt'),
-            InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://t.me/MrFazni'),
+            InlineKeyboardButton('👩‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ ✨', url='https://t.me/MrFazni'),
             ],[
-            InlineKeyboardButton('👋 ᴇxᴛʀᴀ ʙᴜᴛᴛᴏɴs 👋', callback_data='about'),
+            InlineKeyboardButton('👋 ᴀʙᴏᴜᴛ ᴍᴇ 👋', callback_data='about'),
             ],[
             InlineKeyboardButton('🔐 ᴄʟᴏsᴇ 🔐', callback_data='close_data')
         ]]
